@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms-Specialization-UCSanDiego
-There are 6 Courses in this Specialization.
+There are 6 Courses in this [Specialization](https://www.coursera.org/specializations/data-structures-algorithms?=#courses).
 
 ## Algorithmic Toolbox
 
