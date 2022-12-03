@@ -1,2 +1,38 @@
 # Data-Structures-and-Algorithms-Specialization-UCSanDiego
-https://www.coursera.org/specializations/data-structures-algorithms?=#courses
+There are 6 Courses in this Specialization.
+
+## Algorithmic Toolbox
+
+1. ### Programming Challenges
+
+   算法和数据结构的重要性
+
+   课程包含的内容
+
+   介绍了一本书《LEARNING ALGORITHMS THROUGH PROGRAMMING AND PUZZLE SOLVING》
+
+   需要的背景知识：
+
+   ​	至少一门编程语言的基础知识；
+
+   ​	离散数学基础知识（课：[Introduction to Discrete Mathematics for Computer Science](http://bit.ly/dmalgoreading)；书，[Discrete Mathematics for Computer Science](https://bit.ly/2Oj63T0) ）
+
+2. ### Algorithmic Warm-up
+
+3. ### Greedy Algorithms
+
+4. ### Divide-and-Conquer
+
+5. ### Dynamic Programming 1
+
+6. ### Dynamic Programming 2
+
+## Data Structures
+
+## Algorithms on Graphs
+
+## Algorithms on Strings
+
+## Advanced Algorithms and Complexity
+
+## Genome Assembly Programming Challenge
