@@ -15,7 +15,7 @@ There are 6 Courses in this [Specialization](https://www.coursera.org/specializa
 
    a.至少一门编程语言的基础知识；
 
-   b.离散数学基础知识(课: [Introduction to Discrete Mathematics for Computer Science](http://bit.ly/dmalgoreading); 书: [Discrete Mathematics for Computer Science](https://bit.ly/2Oj63T0)) 
+   b.离散数学基础知识（课：[Introduction to Discrete Mathematics for Computer Science](http://bit.ly/dmalgoreading)；书： [Discrete Mathematics for Computer Science](https://bit.ly/2Oj63T0)）。我暂且用Youtube的这个视频（[Maths for Programmers Tutorial - Full Course on Sets and Logic](https://www.youtube.com/watch?v=2SpuBqvNjHI&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&index=3)）代替。
 
 2. ### Algorithmic Warm-up
 
