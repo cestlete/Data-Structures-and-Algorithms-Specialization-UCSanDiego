@@ -9,7 +9,7 @@ There are 6 Courses in this [Specialization](https://www.coursera.org/specializa
 
    课程包含的内容
 
-   介绍了一本书《LEARNING ALGORITHMS THROUGH PROGRAMMING AND PUZZLE SOLVING》
+   介绍了一本书[《LEARNING ALGORITHMS THROUGH PROGRAMMING AND PUZZLE SOLVING》](https://learningalgorithms.tilda.ws/?utm_source=coursera&utm_media=reading)
 
    需要的背景知识：
 
